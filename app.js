@@ -60,11 +60,25 @@
 
 //     + "</table>"
 //   )
+    //  num++ // post increment
+    //  ++num //pre increment
+    //  num-- //post decrement
+    // --num // pre decrement
+    
+    
+    
+    // var a = 2;
+    // var b = 3;
+    // var result = a++
+    // document.write(result)
+
+
+
   
-
-
-
-
+    // var a = 2;
+    // var b = 3;
+    // var result = a++ + a + ++b
+    // document.write(result)
 
 
 
