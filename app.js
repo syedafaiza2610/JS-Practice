@@ -210,6 +210,19 @@
 // )
 
 
+// var arr = ["Faiza","Naqi","24"];
+// document.write(arr[0] + " " + arr[2]);
+// var arr = ["Faiza","Naqi","24","Mern Stack Developer"];
+// arr.push("University of Karachi")
+// arr.pop()
+// arr.unshift("Parveen")
+// arr.shift()
+// arr.splice(2,1,"good")
+// document.write(arr)
+
+
+
+
     
 
 
