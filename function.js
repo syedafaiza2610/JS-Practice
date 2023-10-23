@@ -26,3 +26,18 @@
 // var f = +prompt("Enter value 3");
 
 // alert(sum(s,t,f));
+
+// function abc() {
+//     document.getElementById("abc").innerHTML="Faiza Parveen"
+// }
+// function abc() {
+//     var a ="my name is faiza and i am a mern stack developer"
+//     document.getElementById('anc').innerHTML= a
+
+// }
+
+// function abc() {
+//     document.getElementById('ttt').innerHTML= "hello world"
+//     document.getElementById('anc').style.display="none"
+// }
+
